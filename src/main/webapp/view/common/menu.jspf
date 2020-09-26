@@ -1,0 +1,10 @@
+<div class="header">
+  <h1> Airline Group</h1>
+ </div>
+ <ul>
+  <li><a href="http://localhost:9095/homepage">Home</a></li>
+  <li><a href="http://localhost:9095/findFlightDisplay">Find Flight</a></li>
+  <li><a href="http://localhost:9095/addBooking">Booking</a></li>
+  <li><a href="http://localhost:9095/logout">Log Out</a></li>
+ </ul>
+ 
